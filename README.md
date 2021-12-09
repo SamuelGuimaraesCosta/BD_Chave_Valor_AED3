@@ -1,2 +1,3 @@
 # Banco de Dados Chave Valor AED3
-Trabalho de AED3 -> Banco de Dados Chave Valor
+
+Projeto feito em offline, adicionado posteriormente em repositório GitHub.
